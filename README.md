@@ -1,6 +1,6 @@
 Global Sequence Alignment
 ==============================
-Global pairwise alignment of two sequences using a dynamic programming algorithm of <a href="https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm">Needleman and Wunsch (1970)</a> for global alignment.
+Global pairwise alignment of two sequences using <a href="https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm">Needleman and Wunsch algorithm for global alignment</a>.
 
 It can be described in three steps:
 (1) Scoring matrix cunstruction; (2) TraceBack; and (3) Alignment;
